@@ -1,15 +1,19 @@
  Hi, I’m Renan Mendes 👋. 
  よろしくお願いいたします
 
-
-Flutter and Dart are a bliss, so they're my go-to in any project.
+I'm a half-front-end dev, half-designer and half-chemist.
+Yes, 3/2.
 
 ## Stack
 ### Technology
 - Dart
-- Flutter 
+- Flutter
+- Material Design
+- Adobe Package | Inkscape | Design
 - Supabase
-- SQL and PostgreSQL
+- SQL | PostgreSQL | SQLite
+
+  
 ### Design
 - UI Design
 - Material Design
@@ -20,10 +24,9 @@ Flutter and Dart are a bliss, so they're my go-to in any project.
 
 
 ## Learning
+- Keras + DeepXDE + Pytorch
 - Svelte
 - Python + Scikit
-- Japanese
-- Cosmetics Science
 
 ## Languages
 - 🗽 English // intermediate
