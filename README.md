@@ -4,14 +4,13 @@
 I'm a half-front-end dev, half-designer and half-chemist.
 Yes, 3/2.
 
-## Stack
-### Technology
+## My Stack
+### Dev
 - Dart
 - Flutter
-- Material Design
-- Adobe Package | Inkscape | Design
 - Supabase
 - SQL | PostgreSQL | SQLite
+- Python
 
   
 ### Design
@@ -29,10 +28,10 @@ Yes, 3/2.
 - Python + Scikit
 
 ## Languages
-- 🗽 English // intermediate
-- 🇧🇷 Portuguese // native
-- 🗾 Japanese // intermediate
-- 🪆 Russian //basic
+- 🗽 English | intermediate
+- 🇧🇷 Portuguese | native
+- 🗾 Japanese | intermediate
+- 🪆 Russian | basic
 
 ## Academia
 - :test_tube: Chemistry Technician
