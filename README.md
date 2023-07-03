@@ -1,6 +1,6 @@
 Hi, I’m Renan Mendes 👋. 
 
-I'm a half-front-end dev, half-designer and half-chemist.
+I'm a front-end dev, designer and chemist.
 
 
 ## My Stack
