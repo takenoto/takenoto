@@ -1,6 +1,6 @@
 Hi, I’m Renan Mendes 👋. 
 
-I'm applying my ~4 years experience in design to creating mobile experiences.
+I'm applying my ~4 years of experience in design to creating mobile experiences.
 By the way, I'm supposed to be a chemical engineer.
 
 
