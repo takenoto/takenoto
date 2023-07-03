@@ -1,6 +1,7 @@
 Hi, I’m Renan Mendes 👋. 
 
-I'm a front-end dev, designer and chemist.
+I'm applying my ~4 years experience in design to creating mobile experiences.
+By the way, I'm supposed to be a chemical engineer.
 
 
 ## My Stack
