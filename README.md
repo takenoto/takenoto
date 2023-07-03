@@ -25,9 +25,9 @@ I'm a front-end dev, designer and chemist.
 
 [<img  height='80' alt='Smartphone' src='smartphone.svg'/>](smartphone.svg) 
 ## Projects
-- Minilabs - Science labs
-- Kanji no Yama - Japanese Teaching with short lessons
-- Rottas UFC - Find routes, buses and places at the Federal University of Ceará - Campus do Pici
+- Minilabs: Science for Everyone [PRIVATE]
+- Kanji no Yama: Learn japanese with bite-sized lessons [PUBLIC]
+- Rottas UFC: Better management of public transport and improvement of student discovery for Federal University of Ceará (Campus do Pici) [PRIVATE]
 
 ---
   
